@@ -15,7 +15,7 @@
 * Create Navbar.tsx component that is at the top of every page
 
 ### Create explore top books component 
-* Create new .tsx component that is displaed as the first component on the homepage
+* Create ExploreTopBooks.tsx component that is displaed as the first component on the homepage
 
 ### Create carrousel for books component
 * Create new .tsx component that allows the user to see books on the homepage

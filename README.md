@@ -32,4 +32,8 @@
 #### Create footer component
 * Create `Footer.tsx` component that is at the bottom of every page
 
+#### Create homepage component and change App.tsx
+* Create `HomePage.tsx` component to use the main components
+* Change `App.tsx` to import the homepage
+
 ---

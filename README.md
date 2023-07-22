@@ -26,8 +26,8 @@
 #### Create heros component
 * Create `Heros.tsx` component that provides some info to the user along with images
 
-#### Create library services 
-* Create new .tsx component that redirects user to he library services
+#### Create library services component
+* Create `LibraryServices.tsx` component that redirects user to the library services
 
 #### Create React footer component
 * Create new .tsx component that is at the bottom of every page

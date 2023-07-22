@@ -1,4 +1,4 @@
-# Library App develope with React and Spring Boot
+# Library App developed with React and Spring Boot
 
 ---
 
@@ -23,8 +23,8 @@
 #### Create a reusable component to return books
 * Create `ReturnBook.txt` component and use it within `Carrousel.tsx`
 
-#### Create hero's component
-* Create new .tsx component that provides some info to the user along with images
+#### Create heros component
+* Create `Heros.tsx` component that provides some info to the user along with images
 
 #### Create library services 
 * Create new .tsx component that redirects user to he library services

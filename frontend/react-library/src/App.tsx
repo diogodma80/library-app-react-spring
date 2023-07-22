@@ -5,6 +5,7 @@ import { ExploreTopBooks } from './layouts/HomePage/ExploreTopBooks';
 import { Carrousel } from './layouts/HomePage/Carrousel';
 import { Heros } from './layouts/HomePage/Heros';
 import { LibraryServices } from './layouts/HomePage/LibraryServices';
+import { Footer } from './layouts/NavbarAndFooter/Footer';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Carrousel />
       <Heros />
       <LibraryServices />
+      <Footer />
     </div>
   );
 }

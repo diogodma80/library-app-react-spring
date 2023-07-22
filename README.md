@@ -29,7 +29,7 @@
 #### Create library services component
 * Create `LibraryServices.tsx` component that redirects user to the library services
 
-#### Create React footer component
-* Create new .tsx component that is at the bottom of every page
+#### Create footer component
+* Create `Footer.tsx` component that is at the bottom of every page
 
 ---

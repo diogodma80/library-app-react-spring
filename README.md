@@ -51,6 +51,8 @@
 * `lombok`
 
 #### Develop the entity: Book
+* `BookRepository`
+* Disable `POST`, `PUT`, `PATCH` and `DELETE` HTTP methods on the API: `MyDataRestConfig` class, `@Configuration` annotation and `RepositoryRestConfigurer` interface
 
 #### Create REST APIs with Spring Data JPA Repositories and Spring Data REST
 

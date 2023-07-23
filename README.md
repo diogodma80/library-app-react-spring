@@ -44,7 +44,7 @@
 * `React-Springboot-Add-Tables-Script-1.sql` creates the database and tables
 * `React-Springboot-Add-Tables-Script-2.sql` loads the data in the `book` table
 
-#### Create a Spring Boot starter project and set up application.properties file
+#### Create a Spring Boot starter project and set up `application.properties` file
 * `spring-boot-starter-data-jpa` 
 * `spring-boot-starter-data-rest`
 * `mysql-connector-java`

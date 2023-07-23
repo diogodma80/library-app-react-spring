@@ -37,3 +37,21 @@
 * Change `App.tsx` to import the homepage
 
 ---
+
+## Spring Boot
+
+#### Set up the database and tables in MySQL workbench
+* `React-Springboot-Add-Tables-Script-1.sql` creates the database and tables
+* `React-Springboot-Add-Tables-Script-2.sql` loads the data in the `book` table
+
+#### Create a Spring Boot starter project
+* `spring-boot-starter-data-jpa` 
+* `spring-boot-starter-data-rest`
+* `mysql-connector-java`
+* `lombok`
+
+#### Develop the entity: Book
+
+#### Create REST APIs with Spring Data JPA Repositories and Spring Data REST
+
+---

@@ -52,8 +52,17 @@
 
 #### Develop the entity: Book
 * `BookRepository`
-* Disable `POST`, `PUT`, `PATCH` and `DELETE` HTTP methods on the API: `MyDataRestConfig` class, `@Configuration` annotation and `RepositoryRestConfigurer` interface
 
 #### Create REST APIs with Spring Data JPA Repositories and Spring Data REST
+* Disable `POST`, `PUT`, `PATCH` and `DELETE` HTTP methods on the API: `MyDataRestConfig` class, `@Configuration` annotation and `RepositoryRestConfigurer` interface
+
+---
+
+## Consume Carrousel Book API 
+
+#### Create React `BookModel` class
+
+#### Call Spring Boot API from React Application
+* Javascript `await fetch` functionality to retrieve data asynchronously and `useEffect` React Hook
 
 ---

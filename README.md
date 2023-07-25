@@ -65,4 +65,7 @@
 #### Call Spring Boot API from React Application
 * Javascript `await fetch` functionality to retrieve data asynchronously and `useEffect` React Hook
 
+#### Loading and error renders
+* `isLoading` and `httpError` return
+
 ---

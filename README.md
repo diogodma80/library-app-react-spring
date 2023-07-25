@@ -68,4 +68,7 @@
 #### Loading and error renders
 * `isLoading` and `httpError` return
 
+#### Configure ReturnBook to use props and set Carrousel to render books
+
+
 ---

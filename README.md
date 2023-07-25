@@ -70,5 +70,6 @@
 
 #### Configure ReturnBook to use props and set Carrousel to render books
 
-
+#### Loading Spinner on Carrousel refresh
+* `SpinnerLoading` and use it in `Carrousel` component
 ---

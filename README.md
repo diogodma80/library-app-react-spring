@@ -76,4 +76,5 @@
 
 ## Search Books component with Pagination
 
-#### Set up `SearchBooksPage`
+#### Set up components and DOM
+* `SearchBooksPage` and `SearchBook`

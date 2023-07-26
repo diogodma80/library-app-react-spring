@@ -73,3 +73,7 @@
 #### Loading Spinner on Carrousel refresh
 * `SpinnerLoading` and use it in `Carrousel` component
 ---
+
+## Search Books component with Pagination
+
+#### Set up `SearchBooksPage`

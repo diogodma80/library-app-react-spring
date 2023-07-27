@@ -28,7 +28,7 @@ export const Pagination: React.FC<{currentPage: number,
             }
 
             if(props.totalPages >= props.currentPage + 2) {
-                pageNumbers.push(props.currentPage + 1);
+                pageNumbers.push(props.currentPage + 2);
             }
         }
 

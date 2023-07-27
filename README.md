@@ -78,3 +78,11 @@
 
 #### Set up components and DOM
 * `SearchBooksPage` and `SearchBook`
+
+#### Pagination on the React frontend
+* Create reusable `Pagination` component that gets the `currentPage`, `totalPage` and `paginate`
+
+#### Pagination on the Spring Boot backend
+* [Spring Boot](https://docs.spring.io/spring-data/rest/docs/current/reference/html/#repository-resources.query-method-resource) pagination document
+* `http://localhost:8080/api/books?page=[NUMBER]&size=[NUMBER]`
+

@@ -87,3 +87,10 @@
 * [Spring Boot](https://docs.spring.io/spring-data/rest/docs/current/reference/html/#repository-resources.query-method-resource) pagination document
 * `http://localhost:8080/api/books?page=[NUMBER]&size=[NUMBER]`
 
+#### Find by title in Spring Boot backend
+* Add `findByTitleContaining` method in `BookRepository`
+* Spring endpoint `http://localhost:8080/api/books/search` provides the search endpoint `http://localhost:8080/api/books/search/findByTitleContaining{?title,page,size,sort}`
+* Example: `http://localhost:8080/api/books/search/findByTitleContaining?title=[STRING]&page=[NUMBER]&size=[NUMBER]`
+
+#### Find by title in React frontend
+* Implement the search in `SearchBooksPage` component
